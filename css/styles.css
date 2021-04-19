@@ -1,0 +1,120 @@
+/* Title Section */
+
+#title {
+    background-image: url("../images/garden.jpg");
+    width:100%;
+    background-size: 1280px;
+}
+
+.cursive {
+  font-family: 'Tangerine', cursive;
+}
+
+.heading {
+  background-color: #fff;
+  opacity: 50%;
+}
+
+.dates {
+  padding-top: 60px;
+  padding-left: 20px;
+  margin-top: 200px;
+  font-size: 3.5rem;
+}
+
+/* Navigation Bar */
+
+.navbrand {
+  font-size: 2.5rem;
+  padding-right: 5%;
+}
+
+.navigation {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+}
+
+.nav-item {
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #000;
+  font-weight: bold;
+  opacity: 100%;
+}
+
+/* About Section */
+.about-row-icons {
+  padding: 7% 15%;
+}
+
+.about-box {
+  text-align: center;
+  padding: 3%;
+}
+
+.icon {
+  font-size: 3.5rem;
+  padding: 35px;
+  color: #333333;
+}
+
+.icon:hover {
+  color: #706C61;
+}
+
+.titles {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.subtitle {
+  color: #706C61;
+  font-family: "Roboto", sans-serif;
+}
+
+.about-header {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.bio {
+  background-color: #E1F4F3;
+  padding: 5% 10%;
+  text-align: center;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+/* Gallery Section */
+#gallery {
+  padding: 5% 15%;
+  text-align: center;
+}
+
+/* Contact Section */
+#contact {
+  background-color: #e1f4f3;
+  padding-top: 2%;
+}
+
+.footer {
+  padding-top: 5%;
+  text-align: center;
+}
+
+.form-div {
+  padding-bottom: 5%;
+}
+
+.footer-container {
+  margin-left: 20%;
+  margin-bottom: 5%;
+}
